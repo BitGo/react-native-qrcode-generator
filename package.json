@@ -1,0 +1,26 @@
+{
+  "name": "react-native-qrcode-generator",
+  "version": "0.1.1",
+  "description": "qrcode generator for react native",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trave7er/react-native-qrcode-generator.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "android",
+    "ios",
+    "qrcode",
+    "generator",
+    "mobile",
+    "native"
+  ],
+  "author": "Huang Yu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trave7er/react-native-qrcode-generator/issues"
+  },
+  "homepage": "https://github.com/trave7er/react-native-qrcode-generator#readme"
+}
