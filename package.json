@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trave7er/react-native-qrcode-generator.git"
+    "url": "git+https://github.com/BitGo/react-native-qrcode-generator.git"
   },
   "keywords": [
     "react",
@@ -17,10 +17,9 @@
     "mobile",
     "native"
   ],
-  "author": "Huang Yu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/trave7er/react-native-qrcode-generator/issues"
+    "url": "https://github.com/BitGo/react-native-qrcode-generator/issues"
   },
-  "homepage": "https://github.com/trave7er/react-native-qrcode-generator#readme"
+  "homepage": "https://github.com/BitGo/react-native-qrcode-generator#readme"
 }
