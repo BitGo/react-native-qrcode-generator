@@ -15,7 +15,7 @@ RCT_EXPORT_METHOD(
 	reject:(RCTResponseSenderBlock)reject
 ) {
   // Your implementation here
-    NSLog("asdf");
+    NSLog(@"asdf");
 }
 
 @end
